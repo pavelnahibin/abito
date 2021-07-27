@@ -5,3 +5,4 @@
 - CSS
 - Normolize
 - JavaScript
+- Fancybox
